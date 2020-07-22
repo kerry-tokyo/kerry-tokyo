@@ -20,7 +20,7 @@ I look forward to working with you 🤝
 - Illustraions
 - Development (HTML, SCSS, React, etc...)
 
--- 
+---
 
 ### Get in touch
 - Web: [kerrytokyo.com](https://kerrytokyo.com/)
