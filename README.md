@@ -17,3 +17,7 @@ I look forward to working with you 🤝
 - Write: write.kerrytokyo.com
 - Portfolio: Please contact us if you would like to see it as it is not open to the public.
 - Chatwork: @kerry-tokyo
+
+### Social
+- Dribbble: @kerr-tokyo
+- Letterboxd: @vivingston
