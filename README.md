@@ -1,7 +1,7 @@
 ## 😘 Hi there, I'm Kerry, a graphic / web designer currently living in Tokyo.
 
 ### Work
-Up to now, I have worked as a designer in the graphic areas such as printing and CI. Since becoming a freelance a year and a half ago, I've expanded my work to the web and tried out different technologies/tools. : React, TypeScript, Gatsby, Next.js, Hugo, CSS modules and more...
+Up to now, I have worked as a designer in the graphic areas such as printing and CI. Since becoming a freelance a year and a half ago, I've expanded my work to the web and tried out different technologies/tools. → React, TypeScript, Gatsby, Next.js, Hugo, CSS modules and more...
 
 ### Present 
 While working on graphic design, I am developing a web service using Next.js and Firebase with my acquaintance. It will be released by October of this year.
@@ -20,5 +20,5 @@ I look forward to working with you 🤝
 - Chatwork: @kerry-tokyo
 
 ### Social
-- Dribbble: @kerr-tokyo
+- Dribbble: @kerry-tokyo
 - Letterboxd: @vivingston
