@@ -20,7 +20,7 @@ I look forward to working with you 🤝
 - Illustraions
 - Development (HTML, SCSS, React, etc...)
 
-<hr/>
+<hr style="height:1px"/>
 
 ### Get in touch
 - Web: [kerrytokyo.com](https://kerrytokyo.com/)
