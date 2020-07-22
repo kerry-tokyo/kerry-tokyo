@@ -9,7 +9,7 @@ While working on graphic design, I am developing a web service using Next.js and
 ### Future 
 After the service currently under development has been released, I will leave freelance and join a new team (company), so I plan to find a job change destination.
 SONICJAM, SHIFTBRAIN, SIMONE is the company I want to belong to, but if you are interested in me at other companies, please contact me!
-I look forward to working with you.
+I look forward to working with you 🤝
 
 
 ### Get in touch
