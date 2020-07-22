@@ -23,4 +23,4 @@ I look forward to working with you 🤝
 - Dribbble: [@kerry-tokyo](https://dribbble.com/kerry-tokyo)
 - Letterboxd: [@vivingston](https://letterboxd.com/vivingston/)
 
-<div style="text-align:right">Updated: 2020.07.22</div>
+<p align="right">Updated: 2020.07.22</p>
