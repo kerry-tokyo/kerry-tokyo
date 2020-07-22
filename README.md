@@ -13,6 +13,13 @@ After the service currently under development has been released, I will leave fr
 [SONICJAM](https://www.sonicjam.co.jp/), [SHIFTBRAIN](https://www.shiftbrain.com/), [SIMONE](https://ilovesimone.com/) is the company I want to belong to, but if you are interested in me at other companies, please contact me!
 I look forward to working with you 🤝
 
+## Ability
+- Graphic Design
+- Web Design
+- UI Design
+- Illustraions
+- Development (HTML, SCSS, React, etc...)
+
 ---
 
 ### Get in touch
