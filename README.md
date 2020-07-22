@@ -14,7 +14,7 @@ I look forward to working with you 🤝
 ---
 
 ### Get in touch
-- Web: [kerrytokyo.com](kerrytokyo.com)
+- Web: [kerrytokyo.com](https://kerrytokyo.com/)
 - Write: write.kerrytokyo.com
 - Portfolio: Please contact us if you would like to see it as it is not open to the public.
 - Chatwork: @kerry-tokyo
