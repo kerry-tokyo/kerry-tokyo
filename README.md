@@ -13,6 +13,6 @@ I look forward to working with you.
 
 
 ## Get in touch
-- Web kerrytokyo.com
-- Chatwork @kerry-tokyo
-- Slack, Email hello.kerrytokyo@gmail.com
+- Web: kerrytokyo.com
+- Chatwork: @kerry-tokyo
+- Email: hello.kerrytokyo@gmail.com
