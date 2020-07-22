@@ -3,7 +3,7 @@
 ### Work
 So far, I have worked as a designer in graphic fields such as printing and CI. Since becoming a freelance a year and a half ago, I have expanded my work to the web and tried different technologies/tools. → React, TypeScript, Gatsby, Next.js, Hugo, CSS module, etc...
 
-I'm good at component-oriented UI design and I love it. (That is, React)
+>> I'm good at component-oriented UI design and I love it. (That is, React)
 
 ### Present 
 I'm also developing a web service using Next.js and Firebase. It will be released by October of this year.
