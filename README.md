@@ -5,14 +5,6 @@ So far, I have worked as a designer in graphic fields such as printing and CI. S
 
 > I'm good at component-oriented UI design and I love it. (That is, React)
 
-### Present 
-I'm also developing a web service using Next.js and Firebase. It will be released by October of this year.
-
-### Future 
-After the service currently under development has been released, I will leave freelance and join a new team (company), so I plan to find a job change destination.
-[SONICJAM](https://www.sonicjam.co.jp/), [SHIFTBRAIN](https://www.shiftbrain.com/), [SIMONE](https://ilovesimone.com/) is the company I want to belong to, but if you are interested in me at other companies, please contact me!
-I look forward to working with you 🤝
-
 ### Ability
 - Graphic Design
 - Web Design
