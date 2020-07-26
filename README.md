@@ -18,7 +18,7 @@ So far, I have worked as a designer in graphic fields such as printing and CI. S
 - Web: [kerrytokyo.com](https://kerrytokyo.com/)
 - Write: [write.kerrytokyo.com](https://write.kerrytokyo.com/)
 - Portfolio: Please contact us if you would like to see it as it is not open to the public.
-- Chatwork: @kerry-tokyo
+- Chatwork: @kerry_tokyo
 
 ### Social
 - Dribbble: [@kerry-tokyo](https://dribbble.com/kerry-tokyo)
