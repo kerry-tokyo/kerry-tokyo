@@ -5,12 +5,8 @@ So far, I have worked as a designer in graphic fields such as printing and CI. S
 
 > I'm good at component-oriented UI design and I love it. (That is, React)
 
-### Ability
-- Graphic Design
-- Web Design
-- UI Design
-- Illustraions
-- Development (HTML, SCSS, React, etc...)
+### Future
+I am currently working as a freelancer, but I will leave freelance in the near future (within half a year) and belong to a web-based design company. There are several companies I would like to visit, but if you are interested in me, please feel free to contact me.
 
 ---
 
