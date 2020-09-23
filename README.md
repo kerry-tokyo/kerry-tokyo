@@ -8,8 +8,6 @@ So far, I have worked as a designer in graphic fields such as printing and CI. S
 ### Future
 I am currently working as a freelancer, but I will leave freelance in the near future and belong to a web-based design company. There are several companies I would like to visit, but if you are interested in me, please feel free to contact me.
 
----
-
 ### Get in touch
 - Web: [kerrytokyo.com](https://kerrytokyo.com/)
 - Write: [write.kerrytokyo.com](https://write.kerrytokyo.com/)
