@@ -1,4 +1,5 @@
-# Hi there👋🏻  I'm Kerry, a Graphic and Web designer currently living in Tokyo.
+# Hi there👋🏻  
+I'm Kerry, a Graphic and Web designer currently living in Tokyo.
 
 ### Work
 So far, I have worked as a designer in graphic fields such as printing and CI. Since becoming a freelance a year and a half ago, I have expanded my work to the web and tried different technologies/tools. → React, TypeScript, Gatsby, Next.js, Hugo, CSS module, etc...
