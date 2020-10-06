@@ -14,6 +14,12 @@ I am currently working as a freelancer, but I will leave freelance in the near f
 - Portfolio: Please contact us if you would like to see it as it is not open to the public.
 - Chatwork: @kerry_tokyo
 
+### Love 
+- Dr Pepper
+- NBA
+- Films
+- Music
+
 ### Social
 - Dribbble: [@kerry-tokyo](https://dribbble.com/kerry-tokyo)
 - Letterboxd: [@vivingston](https://letterboxd.com/vivingston/)
