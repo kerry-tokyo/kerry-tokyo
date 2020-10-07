@@ -8,20 +8,20 @@ So far, I have worked as a designer in graphic fields such as printing and CI. S
 ### Future
 I am currently working as a freelancer, but I will leave freelance in the near future and belong to a web-based design company. There are several companies I would like to visit, but if you are interested in me, please feel free to contact me.
 
-### Get in touch
-- Web: [kerrytokyo.com](https://kerrytokyo.com/)
-- Write: [write.kerrytokyo.com](https://write.kerrytokyo.com/)
-- Portfolio: Please contact us if you would like to see it as it is not open to the public.
-- Chatwork: @kerry_tokyo
-
 ### Love 
 - Dr Pepper
 - NBA
 - Films
 - Music
 
+### Get in touch
+- Web: [kerrytokyo.com](https://kerrytokyo.com/)
+- Write: [write.kerrytokyo.com](https://write.kerrytokyo.com/)
+- Portfolio: Please contact us if you would like to see it as it is not open to the public.
+- Chatwork: @kerry_tokyo
+
 ### Social
 - Dribbble: [@kerry-tokyo](https://dribbble.com/kerry-tokyo)
 - Letterboxd: [@vivingston](https://letterboxd.com/vivingston/)
 
-<p align="right">Updated: 2020.09.23</p>
+<p align="right">Updated: 2020.10.07</p>
