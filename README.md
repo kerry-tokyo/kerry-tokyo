@@ -21,8 +21,7 @@ Recently I created some Gatsby starters. It's designed for my own use, but if yo
 
 ### Get in touch
 - Web: [kerrytokyo.com](https://kerrytokyo.com/)
-- Write: [write.kerrytokyo.com](https://write.kerrytokyo.com/)
-- Portfolio: Please contact us if you would like to see it as it is not open to the public.
+- Blog: [write.kerrytokyo.com](https://write.kerrytokyo.com/)
 - Chatwork: @kerry_tokyo
 
 ### Social
