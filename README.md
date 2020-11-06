@@ -5,8 +5,7 @@ So far, I have worked as a designer in graphic fields such as printing and CI. S
 
 > I'm good at component-oriented UI design and I love it. (That is React)
 
-### Future
-I am currently working as a freelancer, but I will leave freelance in the near future and belong to a web-based design company. There are several companies I would like to visit, but if you are interested in me, please feel free to contact me.
+Currently, I am working as a Design Division / UI Designer for [A.C.O](https://aco-tokyo.com/), a design firm in Tokyo.
 
 ### Starters
 Recently I created some Gatsby starters. It's designed for my own use, but if you're looking for a cool starter at Gatsby, definitely use it.
