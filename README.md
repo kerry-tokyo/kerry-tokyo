@@ -14,16 +14,4 @@ Recently I created some Gatsby starters. It's designed for my own use, but if yo
 - [Kerry Gatsby Starter](https://github.com/kerry-tokyo/kerry-gatsby-starter)
 - [Kerry Blog Gatsby Starter](https://github.com/kerry-tokyo/kerry-blog-gatsby-starter)
 
-### Love 
-- Films
-- Music
-- Running
-
-### Get in touch
-- Web: coming soon
-- 
-### Social
-- Dribbble: [@kerry-tokyo](https://dribbble.com/kerry-tokyo)
-- Letterboxd: [@vivingston](https://letterboxd.com/vivingston/)
-
 <p align="right">Updated: 2025.01.16</p>
