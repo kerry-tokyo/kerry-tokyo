@@ -26,4 +26,4 @@ Recently I created some Gatsby starters. It's designed for my own use, but if yo
 - Dribbble: [@kerry-tokyo](https://dribbble.com/kerry-tokyo)
 - Letterboxd: [@vivingston](https://letterboxd.com/vivingston/)
 
-<p align="right">Updated: 2023.04.24</p>
+<p align="right">Updated: 2025.01.16</p>
