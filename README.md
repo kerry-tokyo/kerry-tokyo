@@ -1,4 +1,4 @@
-# Hi there👋🏻  <br/>I'm Kerry, a UI Designer in Monstarlab, Inc.
+# Hi there👋🏻  <br/>I’m Kerry, a freelance UI/UX Designer.
 
 ### Work
 I have accumulated extensive experience in the field of design, working on a variety of projects. After gaining experience as a graphic designer at an advertising agency, I joined A.C.O. Inc., where I worked as a UI designer. During my time there, I was involved in a wide range of tasks, including designing for websites and native apps, building design systems, and managing renewal projects.
