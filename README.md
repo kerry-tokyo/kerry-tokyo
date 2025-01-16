@@ -1,11 +1,13 @@
 # Hi there👋🏻  <br/>I'm Kerry, a UI Designer in Monstarlab, Inc.
 
 ### Work
-So far, I have worked as a designer in graphic fields such as printing and CI. Since becoming a freelance a year and a half ago, I have expanded my work to the web and tried different technologies/tools. → React, TypeScript, Gatsby, Next.js, Hugo, CSS module, etc...
+I have accumulated extensive experience in the field of design, working on a variety of projects. After gaining experience as a graphic designer at an advertising agency, I joined A.C.O. Inc., where I worked as a UI designer. During my time there, I was involved in a wide range of tasks, including designing for websites and native apps, building design systems, and managing renewal projects.
 
-> I'm good at component-oriented UI design and I love it. 
+After transitioning from A.C.O. to Monster Lab Inc., I continued to engage in similar design activities. Throughout my career, I have addressed various creative challenges and expanded my focus beyond UI design to include user experience. This included conducting user testing and interviews, allowing me to gain hands-on experience in UX-related fields. Currently, I work as a freelancer, collaborating with several companies.
 
-Currently, I am working as a Design Division / UI Designer in [Monstarlab, Inc.](https://monstar-lab.com/global/), a digital consulting firm in Tokyo.
+Experienced with various technologies and tools in practice and personal development. → React, TypeScript, Gatsby, Next.js, Hugo, CSS modules, etc.
+
+> Done is better than perfect.
 
 ### Starters
 Recently I created some Gatsby starters. It's designed for my own use, but if you're looking for a cool starter at Gatsby, definitely use it.
