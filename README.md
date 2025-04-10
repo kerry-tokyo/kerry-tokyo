@@ -1,6 +1,7 @@
-# Hi there👋🏻  <br/>I’m Kerry, a freelance UI/UX Designer.
+# Hi there👋🏻  <br/>I’m Shota, a freelance UI/UX Designer — though most people call me Kerry.
 
 ### Work
+
 I have accumulated extensive experience in the field of design, working on a variety of projects. After gaining experience as a graphic designer at an advertising agency, I joined A.C.O. Inc., where I worked as a UI designer. During my time there, I was involved in a wide range of tasks, including designing for websites and native apps, building design systems, and managing renewal projects.
 
 After transitioning from A.C.O. to Monster Lab Inc., I continued to engage in similar design activities. Throughout my career, I have addressed various creative challenges and expanded my focus beyond UI design to include user experience. This included conducting user testing and interviews, allowing me to gain hands-on experience in UX-related fields. Currently, I work as a freelancer, collaborating with several companies.
@@ -14,4 +15,4 @@ Recently I created some Gatsby starters. It's designed for my own use, but if yo
 - [Kerry Gatsby Starter](https://github.com/kerry-tokyo/kerry-gatsby-starter)
 - [Kerry Blog Gatsby Starter](https://github.com/kerry-tokyo/kerry-blog-gatsby-starter)
 
-<p align="right">Updated: 2025.01.16</p>
+<p align="right">Updated: 2025.04.10</p>
