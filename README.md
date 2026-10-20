@@ -1,18 +1,24 @@
-# Hi there👋🏻  <br/>I’m Shota, a freelance UI/UX Designer — though most people call me Kerry.
+# こんにちは、Kerryです 👋
 
-### Work
+東京を拠点に活動しているプロダクトデザイナーです。
+業務SaaSやWebサービスのプロダクトデザインを手がけています。
 
-I have accumulated extensive experience in the field of design, working on a variety of projects. After gaining experience as a graphic designer at an advertising agency, I joined A.C.O. Inc., where I worked as a UI designer. During my time there, I was involved in a wide range of tasks, including designing for websites and native apps, building design systems, and managing renewal projects.
+## やっていること
 
-After transitioning from A.C.O. to Monster Lab Inc., I continued to engage in similar design activities. Throughout my career, I have addressed various creative challenges and expanded my focus beyond UI design to include user experience. This included conducting user testing and interviews, allowing me to gain hands-on experience in UX-related fields. Currently, I work as a freelancer, collaborating with several companies.
+- 業務システム・SaaS の UI/UX 設計（勤怠管理、広告効果シミュレーションなど）
+- デザインシステムの選定・構築、コンポーネント仕様の策定
+- 既存プロダクトのデザインレビューと UX 改善
+- デザインからフロントエンド実装まで（HTML / CSS / React）
 
-Experienced with various technologies and tools in practice and personal development. → React, TypeScript, Gatsby, Next.js, Hugo, CSS modules, etc.
+# Hi, I'm Kerry 👋
 
-> Done is better than perfect.
+I'm a product designer based in Tokyo, working on product design for B2B SaaS and web services.
 
-### Starters
-Recently I created some Gatsby starters. It's designed for my own use, but if you're looking for a cool starter at Gatsby, definitely use it.
-- [Kerry Gatsby Starter](https://github.com/kerry-tokyo/kerry-gatsby-starter)
-- [Kerry Blog Gatsby Starter](https://github.com/kerry-tokyo/kerry-blog-gatsby-starter)
+## What I do
 
-<p align="right">Updated: 2025.04.10</p>
+- UI/UX design for business tools and SaaS (attendance management, ad performance simulation, etc.)
+- Selecting and building design systems, defining component specs
+- Design reviews and UX improvements for existing products
+- From design to front-end implementation (HTML / CSS / React)
+
+<p align="right">Updated: 2026.10.21</p>
